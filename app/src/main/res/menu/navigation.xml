@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/home"
+        android:title="HOME" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/profile"
+        android:title="Profile" />
+
+    <item
+        android:id="@+id/navigation_schedule"
+        android:icon="@drawable/schedule"
+        android:title="Schedule" />
+
+    <item
+        android:id="@+id/navigation_cupon"
+        android:icon="@drawable/cupon"
+        android:title="Coupon" />
+    </group>
+    <group>
+        <item
+            android:id="@+id/navigation_referrel"
+            android:icon="@drawable/referrel"
+            android:title="Invite Friends"
+
+            />
+    </group>
+</menu>
